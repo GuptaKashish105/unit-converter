@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    height: 100%;
+    margin: 0;
+
+    background-image: url('/images/index.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
+.heading {
+    font-weight: bolder;
+    color:azure;
+}
+.temp {
+    display: block;
+    margin-left: 50%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
